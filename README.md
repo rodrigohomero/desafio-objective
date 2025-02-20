@@ -8,7 +8,7 @@ Esta é uma API de gestão bancária desenvolvida com **Spring Boot**. Ela permi
 - **Spring Boot**
 - **Spring Web**
 - **Spring Data JPA**
-- **H2 Database** (Banco em memória)
+- **My SQL Database**
 - **Lombok**
 - **Spring Validation**
 - **JUnit + Mockito** (Testes unitários)
