@@ -75,7 +75,7 @@ Caso a conta não exista, retorna **404 Not Found**.
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd banco-api
+   cd desafio-objective
    ```
 3. Execute o projeto com:
    ```sh
