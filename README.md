@@ -65,6 +65,8 @@ Caso a conta não exista, retorna **404 Not Found**.
 ### 📌 Pré-requisitos
 - Ter **Java 17** instalado.
 - Ter **Maven** instalado.
+- Ter **MySQL** instalado e rodando.
+- Criar Banco de Dados **objective**
 
 ### ▶️ Rodando a Aplicação
 1. Clone este repositório:
